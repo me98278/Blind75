@@ -1,5 +1,7 @@
 package two_sum
 
-func twoSum_test() []int {
+import "fmt"
 
+func Two_Sum_Test() {
+	fmt.Println("hello world test")
 }

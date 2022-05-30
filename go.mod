@@ -1,3 +1,3 @@
-module Blind75
+module blind75
 
 go 1.18
